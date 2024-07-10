@@ -168,7 +168,7 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
 .style-deep-purple,.style-hover-deep-purple:hover{color:#fff!important;background-color:#673ab7!important}
 .style-red,.style-hover-red:hover{color:#fff!important;background-color:#f44336!important}
 .style-sand,.style-hover-sand:hover{color:#000!important;background-color:#fdf5e6!important}
-.style-teal,.style-hover-teal:hover{color:#fff!important;background-color:#78003F!important}
+.style-burgundy,.style-hover-burgundy:hover{color:#fff!important;background-color:#78003F!important}
 .style-yellow,.style-hover-yellow:hover{color:#000!important;background-color:#ffeb3b!important}
 .style-white,.style-hover-white:hover{color:#000!important;background-color:#fff!important}
 .style-black,.style-hover-black:hover{color:#fff!important;background-color:#000!important}
@@ -198,7 +198,7 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
 .style-text-deep-purple,.style-hover-text-deep-purple:hover{color:#673ab7!important}
 .style-text-red,.style-hover-text-red:hover{color:#f44336!important}
 .style-text-sand,.style-hover-text-sand:hover{color:#fdf5e6!important}
-.style-text-teal,.style-hover-text-teal:hover{color:#009688!important}
+.style-text-burgundy,.style-hover-text-burgundy:hover{color:#78003F!important}
 .style-text-yellow,.style-hover-text-yellow:hover{color:#d2be0e!important}
 .style-text-white,.style-hover-text-white:hover{color:#fff!important}
 .style-text-black,.style-hover-text-black:hover{color:#000!important}
@@ -224,7 +224,7 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
 .style-border-deep-purple,.style-hover-border-deep-purple:hover{border-color:#673ab7!important}
 .style-border-red,.style-hover-border-red:hover{border-color:#f44336!important}
 .style-border-sand,.style-hover-border-sand:hover{border-color:#fdf5e6!important}
-.style-border-teal,.style-hover-border-teal:hover{border-color:#009688!important}
+.style-border-burgundy,.style-hover-border-burgundy:hover{border-color:#78003F!important}
 .style-border-yellow,.style-hover-border-yellow:hover{border-color:#ffeb3b!important}
 .style-border-white,.style-hover-border-white:hover{border-color:#fff!important}
 .style-border-black,.style-hover-border-black:hover{border-color:#000!important}
