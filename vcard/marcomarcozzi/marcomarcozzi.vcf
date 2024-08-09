@@ -1,0 +1,22 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Marcozzi;Marco;;;
+FN:Marco Marcozzi
+ORG:Institute of Data Science and Digital Technologies, Vilnius University
+ADR;TYPE=WORK:
+TITLE:Researcher
+TEL;TYPE=CELL:+37061378175
+TEL;TYPE=WORK:
+TEL;TYPE=HOME:
+TEL;TYPE=MSG:
+EMAIL;TYPE=WORK:marco.marcozzi@mif.vu.lt
+URL;TYPE=Digital Business Card:https://marco-zzi.github.io/vcard/marcomarcozzi/
+URL:https://marco-zzi.github.io/
+URL;TYPE=Website:https://marco-zzi.github.io/
+URL;TYPE=LinkedIn:https://linkedin.com/in/marco-marcozzi
+URL;TYPE=Twitter:https://twitter.com/marco_zzi
+URL;TYPE=GitHub:https://github.com/marco-zzi
+KEY;TYPE=PGP;ENCODING=b:
+NOTE:
+UID:EnBizCard-100801484
+END:VCARD
