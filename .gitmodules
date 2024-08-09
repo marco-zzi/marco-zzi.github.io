@@ -1,0 +1,3 @@
+[submodule "vcard"]
+	path = vcard
+	url = https://github.com/marco-zzi/vcard
